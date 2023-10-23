@@ -1,6 +1,6 @@
 import pytest
 
-from APP_NAME import algorithms
+from survey_subsampling import algorithms
 
 
 def test_fibonacci_success_0() -> None:
